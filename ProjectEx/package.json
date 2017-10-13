@@ -1,0 +1,25 @@
+{
+  "name": "avatar-proj",
+  "version": "1.0.0",
+  "description": "try1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xipascu/avatarProj.git"
+  },
+  "keywords": [
+    "avatar"
+  ],
+  "author": "ili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xipascu/avatarProj/issues"
+  },
+  "homepage": "https://github.com/xipascu/avatarProj#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
